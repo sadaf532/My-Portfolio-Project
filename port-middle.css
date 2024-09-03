@@ -1,0 +1,180 @@
+
+ .middle{
+    background-color: white;
+    height:1350px;
+    border-radius: 5px;
+ }
+ .myselfmore{
+   background-color:#0b77e4 ;
+   width:540px;
+   height:44px;
+ }
+ .my{
+   margin-top:0;
+   margin-bottom:0;
+   padding-top: 10px;
+   padding-left: 9px;
+   color:white;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif,;
+ }
+
+
+  .my02{
+   font : 18px georgia,palatino;
+   color:#808000;
+   text-align: center ;
+  }
+
+  .my03{
+   font-size:24px;
+   font-family: impact, chicago;
+   color:#555555;
+   text-align: center;
+  }
+
+  .my04{
+   color:#555555;
+   font-size:17px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align:start;
+   margin-left: 20px;
+   line-height: 25px;
+
+  }
+.my05{
+   font-weight:bold;
+   font-size: 18px;
+   margin-left:20px ;
+   text-decoration: underline;
+}
+
+
+
+
+ .right{
+    height:480px;
+    background-color: white; 
+    border-radius: 4px;
+
+  }
+
+  .achive-class{
+   margin-top: 0;
+   margin-bottom: 0;
+   padding-top: 10px;
+   color:white;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif,;
+
+  }
+  .achiv{
+   width:290px;
+   height:44px;
+   background-color:#1E88E5 ;
+
+  }
+
+  .mid02-div{
+    position: absolute;
+    left:310px;
+    top:550px;
+    background-color:whitesmoke;
+    width:540px;
+    height:500px;
+    border-radius: 4px;
+  }
+
+  .skill-div{
+    background-color: #1E88E5;
+    position: absolute;
+    top:0;
+    width:540px;
+    height:44px;
+  }
+  .skill-class{
+    margin-top:0;
+    margin-bottom:0;
+    padding-top: 10px;
+    padding-left: 9px;
+    color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif,;
+  }
+
+  .skill02{
+    padding-top: 54px;
+  }
+
+
+  .right02{
+   width:288px ;
+   height:500px;
+   position: absolute;
+   top: -330px;
+   left:882px;
+   background-color: white;
+   border-radius: 4px;
+  }
+  .project-div{
+    background-color: #1E88E5;
+    position: absolute;
+    top:0;
+    width:290px;
+    height:44px;
+  }
+  .project-name{
+    color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif,;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-left:10px ;
+  }
+  .project-detail{
+    padding-top: 38px;
+  }
+
+  .left04{
+    width:288px ;
+    height:450px;
+    position: absolute;
+    top: 600px;
+    left:882px;
+    background-color: white;
+    border-radius: 4px;
+  }
+
+  .travel-div{
+    padding-left: 100px;
+  }
+  .travel{
+    margin-bottom:0;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color :#555555; 
+    display: inline-block; 
+    border-radius: 5px; 
+    background: #DDDDDD;
+    padding:5px 10px;
+  }
+
+  .entertain{
+    padding-left: 75px;
+  }
+  .cp{
+    padding-left: 64px;
+  }
+  .video{
+    padding-left: 80px;
+  }
+  .movi{
+    padding-left:100px;
+  }
+
+  .education{
+    padding-left:90px;
+  }
+  .tech{
+    padding-left:90px;
+  }

@@ -1,0 +1,253 @@
+
+body{
+   background-color: #42A5F5;
+   margin:0;
+   margin-bottom: 1120px;
+}
+
+.main-div1{
+   display: grid;
+   grid-template-columns: 280px 540px 290px;
+   column-gap: 30px;
+   padding-top: 80px;
+   padding-left: 250px;
+}
+
+.mypic{
+    width:150px;
+    border-radius: 50%;
+}
+.left-div{
+
+   width:280px;
+   background-color: white;
+   position: relative;
+   height:450px;
+   border-radius: 4px;
+}
+.mypic-div{
+   position: absolute;
+   top:-40px;
+   left:65px;
+}
+.first{
+   position: absolute;
+   top:100px;
+   left:65px;
+}
+.first01{
+   font-family: Arial, Helvetica, sans-serif;
+   color:#999999;
+   font-size:18px ;
+   font-weight: bold;
+   margin-bottom: 8px;
+   padding-left: 45px;
+}
+.first02{
+   font-family: Arial, Helvetica, sans-serif;
+   color: #999999;
+   font-size:18px ;
+   font-weight: bold;
+   margin-top: 2px;
+   margin-bottom: 5px;
+}
+.second{
+   position: absolute;
+   top:180px;
+   left:44px;
+   right:35px;
+   height:150px;
+   font-family: Arial, Helvetica, sans-serif ;
+   font-size: 16px;
+   color:#555555;
+   line-height: 25px;
+   font-weight: bold;
+   text-align: center;
+}
+.third{
+   position: absolute;
+   top:340px;
+   left:40px;
+  
+}
+.pro{
+   width:40px;
+   border-radius: 4px;
+   cursor: pointer;
+}
+.pro1{
+   width:40px;
+   padding-left: 88px;
+   border-top-left-radius:6px ;
+   border-bottom-left-radius: 4px;
+   border-top-right-radius: 4px;
+   border-bottom-right-radius:4px ;
+   cursor: pointer;
+}
+
+.main-div2{
+   display:grid;
+   grid-template-columns: 100px;
+   padding-left: 250px;
+}
+
+.left02{
+   width:280px ;
+   height:860px;
+   position: absolute;
+   top: 990px;
+   background-color: white;
+   border-radius: 4px;
+
+}
+.edu-div{
+   width:280px;
+   height:50px;
+   background-color: #0a81e3;
+   position: absolute;
+   top: 0;
+  
+}
+.edu{
+   padding-left: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   color: white;
+   margin-top: 10px;
+   margin-bottom: 0;
+}
+
+.fe{
+   display: grid;
+   grid-template-columns: 40px 1fr;
+   column-gap: 30px;
+   position: absolute;
+   top:80px;
+   border-bottom: 2px solid rgb(131, 127, 127);
+}
+.fl{
+   display:inline-block;
+   margin-right: 20px;
+   width: 70px;
+   height:200px;
+ 
+}
+.ruetlogo{
+   width:50px;
+   border-radius: 50%;
+   padding-left: 4px;
+   vertical-align: top;
+}
+.fn{
+   font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 0;
+   color: #555555;
+   margin-bottom: 0;
+   font-weight: bold;
+}
+.details-div{
+   display: inline-block;
+   width:210px;
+   height:250px;
+}
+.web{
+   padding-bottom: 14px;
+}
+.web-class{
+   margin-top:3px ;
+   font-size: 13px;
+   color: #007BFF;
+   cursor: pointer;
+  
+}
+.web-class:hover{
+   text-decoration: underline;
+}
+.d1{
+  margin-top:0; 
+  margin-bottom: 6px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:gray;
+  
+}
+
+.det-div{
+   height:150px;
+}
+
+.fe2{
+   display: grid;
+   grid-template-columns: 40px 1fr;
+   column-gap: 30px;
+   position: absolute;
+   top:270px;
+   border-bottom: 2px solid rgb(131, 127, 127);
+}
+.fe3{
+
+   display: grid;
+   grid-template-columns: 40px 1fr;
+   column-gap: 30px;
+   position: absolute;
+   top:270px;
+   left:0;
+}
+
+
+.left03{
+   width:288px ;
+   height:300px;
+   position: absolute;
+   top: 240px;
+   left:882px;
+   background-color: white;
+   border-radius: 4px;
+}
+.goal{
+   margin-top: 0;
+   color: white;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif,;
+   padding-top: 10px;
+   padding-left: 10px;
+   margin-bottom: 0;
+
+}
+.goal-div{
+   width:290px;
+   height:44px;
+   background-color:#1E88E5 ;
+}
+.right03{
+   background-color: white;
+   border-radius: 4px;
+   width:280px ;
+   position: absolute;
+   top: 560px;
+   left:0px;
+   height:500px;
+}
+.sports{
+   padding-top: 50px;
+   padding-left: 4px;
+}
+
+.finishing-div{
+   position: absolute;
+   top:1250px;
+   width:600px;
+}
+.s1{
+   font-size:15.5px;
+   font-family: Arial, Helvetica, sans-serif;
+   color:#000000;
+   padding-right: 6px ;
+   padding-left: 6px;
+}
+
+.s1:hover{
+   text-decoration: underline;
+   cursor: pointer;
+}
